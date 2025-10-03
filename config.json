@@ -1,6 +1,5 @@
 {
     "sourceName": "Cs137",
     "nEvents": "250000",
-    "detectorType": "1",
     "detectorHolderDistance": "50"
 }
