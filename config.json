@@ -1,10 +1,6 @@
 {
-    "sourceName": "Co57",
+    "sourceName": "Cs137",
     "nEvents": "250000",
-    "absorberOn": "0",
-    "absorberMat": "G4_Pb",
-    "absorberThickness": "10.0",
     "detectorType": "1",
-    "sourceHolderType": "0",
     "detectorHolderDistance": "50"
 }
